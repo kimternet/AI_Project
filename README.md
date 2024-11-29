@@ -1,6 +1,6 @@
-# Project Name
+# CCTV & UAV 연계형 AI 응급 대응 시스템
 
-Welcome to **Project Name**! 🚀  
+담당 **ECG 데이터 분석 및 심정지 예측 AI 모델 구현**! 🚀  
 This repository showcases a cutting-edge project that leverages Python and web technologies to deliver an innovative solution.
 
 ---
