@@ -9,7 +9,8 @@ LSTM, CNN 모델, 다양한 경량화 방법 가지치기(Pruning), 양자화(Qu
 
 ## 🌟 Features
 
+- **🌐 Language:** Python, HTML, JavaScript, and CSS and Flask
 - **📊 Data Analysis & Processing:** `Numpy` and `Pandas`.
 - **🤖 Machine Learning/Deep Learning:** `TensorFlow`, `PyTorch`, and `Scikit-learn`
-- **🌐 Frontend/Backend Development:** HTML, JavaScript, and CSS and Flask
+  
 ---
