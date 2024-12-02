@@ -33,3 +33,20 @@ Intel GETI를 통해 데이터 어노테이션 작업을 수행했습니다. 총
 - **🤖 Machine Learning/Deep Learning:**  `PyTorch`
   
 ---
+
+# 3. RangChain, RAG, LLM모델을 활용한 요약ChatBot(LLM 활용_PROJECT)
+**6개월간 배운 내용을 PDF로 만들어서 커리큘럼을 요약해주는 ChatBot 구현.**!
+
+**개인프로젝트**! 🚀  
+
+RangChain과 RAG를 활용하여 LLM모델이 답변을 생성하는 요약 ChatBot을 만들었습니다.
+
+---
+
+## 🌟 Features
+
+- **🌐 Language:** `Python`, `HTML`, `JavaScript`, and `CSS` and `Flask`
+- **📊 Data Analysis & Processing:** `RangChain` and `RAG`.
+- **🤖 Machine Learning/Deep Learning:**  `HuggigFace LLM모델`
+  
+---
